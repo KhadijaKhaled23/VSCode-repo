@@ -1,2 +1,4 @@
 hello world
 This a file.
+
+This is a new line.
